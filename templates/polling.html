@@ -1,0 +1,57 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+<div hidden class="jumbotron">Loading...</div>
+<div class="content">
+{% for con in content reversed %}
+<p>{{con}}</p>
+{% endfor %}
+</div>
+</div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+
+  window.addEventListener("load", onLoad, false);
+
+  function onLoad(){
+      // Create a new WebSocket
+/*      ws = new WebSocket((window.location.protocol == 'http') ? 'ws://' : 'wss://' +  window.location.host + '/')
+*/      ws = new WebSocket('ws://' +  window.location.host + '/')
+      // Make it show an alert when a message is received
+      ws.onmessage = function(message) {
+        $('.jumbotron').show();
+        console.log(message);
+        obj = JSON.parse(message.data);
+        $('.content').prepend(obj.message);
+        alert(obj.message);
+        $('.jumbotron').hide();
+      }
+      // Send a new message when the WebSocket opens
+      ws.onopen = function() {
+        console.log("Sending message to WebSocket");
+        ws.send('Hello, world');
+      }
+      ws.onclose = function(evt) { console.log("Socket closed"); };
+      ws.onerror = function(evt) { console.log("Error in socket"); };
+  }
+
+/*for (var i = 0; i < 3; ++i) {
+  // Create a new WebSocket
+  var ws = new WebSocket((window.location.protocol == 'http') ? 'ws://' : 'wss://' +  window.location.host + '/')
+  // Assign it an id
+  ws.id = i;
+  // Make it show a console message when a message is received
+  ws.onmessage = function(message) {
+    console.log('W' + this.id + ': ' + message.data);
+  }
+  // Send a new message when the WebSocket opens
+  ws.onopen = function() {
+    this.send('Hello, world');
+  }
+}*/
+</script>
+</html>

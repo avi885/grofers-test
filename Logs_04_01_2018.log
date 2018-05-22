@@ -1,0 +1,520 @@
+fghfh
+jhfhj
+
+hjdgsd
+
+:wq
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 343, in dynamic
+    raise Exception("Couldn't access user's id")
+Exception: Couldn't access user's id
+2018-01-04 07:22:37
+Domain www.halobee.com
+Couldn't access user's id (<type 'exceptions.Exception'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /new
+Query String placeId
+Query String marketIdNone
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 554, in dynamic
+    li = response['wordList']
+KeyError: 'wordList'
+2018-01-04 07:24:12
+Domain www.halobee.com
+wordList (<type 'exceptions.KeyError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /search
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:57:01
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:57:06
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:57:23
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:57:28
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:57:30
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:57:34
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:57:40
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:57:51
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:57:56
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:57:59
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:58:02
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:58:06
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:58:08
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:58:12
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:58:14
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:58:17
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:58:20
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 825, in dynamic
+    campaigns = response['campaigns'][0:3]
+KeyError: 'campaigns'
+2018-01-04 09:58:22
+Domain www.halobee.com
+campaigns (<type 'exceptions.KeyError'>)
+Cookie Customer Name Souparna
+Cookie Customer Mobile 9560816734
+Cookie Customer Id hweb_2dc6920d3c604e0bad0517e78284b8d120171205065114
+Request URL /landingtemplate
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 725, in dynamic
+    raise Exception("Couldn't access user's id")
+Exception: Couldn't access user's id
+2018-01-04 13:11:14
+Domain www.halobee.com
+Couldn't access user's id (<type 'exceptions.Exception'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /popular_categories
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 725, in dynamic
+    raise Exception("Couldn't access user's id")
+Exception: Couldn't access user's id
+2018-01-04 13:11:29
+Domain www.halobee.com
+Couldn't access user's id (<type 'exceptions.Exception'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /popular_categories
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 659, in dynamic
+    response = get_search_results_list(customerMobile, customerId, marketId, keyword, keywordType, floor)
+  File "/home/ec2-user/frontend/WebClient/ServerCalls/views.py", line 366, in get_search_results_list
+    return_response = response.json()
+  File "/usr/local/lib/python2.7/site-packages/requests/models.py", line 826, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/dist-packages/simplejson/__init__.py", line 505, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/dist-packages/simplejson/decoder.py", line 370, in decode
+    obj, end = self.raw_decode(s)
+  File "/usr/lib64/python2.7/dist-packages/simplejson/decoder.py", line 400, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2018-01-04 20:55:01
+Domain www.halobee.com
+Expecting value: line 1 column 1 (char 0) (<class 'simplejson.scanner.JSONDecodeError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id hweb_2a6b5978d80d4c83a8a0ed94105f064820180104152414
+Request URL /searchKey
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Dynamic/views.py", line 659, in dynamic
+    response = get_search_results_list(customerMobile, customerId, marketId, keyword, keywordType, floor)
+  File "/home/ec2-user/frontend/WebClient/ServerCalls/views.py", line 366, in get_search_results_list
+    return_response = response.json()
+  File "/usr/local/lib/python2.7/site-packages/requests/models.py", line 826, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python2.7/dist-packages/simplejson/__init__.py", line 505, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python2.7/dist-packages/simplejson/decoder.py", line 370, in decode
+    obj, end = self.raw_decode(s)
+  File "/usr/lib64/python2.7/dist-packages/simplejson/decoder.py", line 400, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2018-01-04 20:56:11
+Domain www.halobee.com
+Expecting value: line 1 column 1 (char 0) (<class 'simplejson.scanner.JSONDecodeError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id hweb_2a6b5978d80d4c83a8a0ed94105f064820180104152414
+Request URL /searchKey
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Nearby/views.py", line 63, in get_campaigns
+    jsonHalo = getJsonForCampaignPage(response, haloid, server, image_server, ip, customerName, customerMobile, customerId, '', category, floor, '', '', current_domain, request.user_agent.is_mobile)
+  File "/home/ec2-user/frontend/WebClient/Dynamic/utils.py", line 36, in getJsonForCampaignPage
+    marketName = response['marketName']
+KeyError: 'marketName'
+2018-01-04 20:57:34
+Domain www.halobee.com
+marketName (<type 'exceptions.KeyError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /nearby/Query String MarketId 
+
+Response {u'requestStatus': u'SUCCESS', u'halo': {u'Object': {u'status': u'SUCCESS', u'bio': u'', u'name': u'', u'gender': u'Unknown', u'imageName': u'webUser', u'email': u''}}}
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Nearby/views.py", line 63, in get_campaigns
+    jsonHalo = getJsonForCampaignPage(response, haloid, server, image_server, ip, customerName, customerMobile, customerId, '', category, floor, '', '', current_domain, request.user_agent.is_mobile)
+  File "/home/ec2-user/frontend/WebClient/Dynamic/utils.py", line 36, in getJsonForCampaignPage
+    marketName = response['marketName']
+KeyError: 'marketName'
+2018-01-04 20:57:34
+Domain www.halobee.com
+marketName (<type 'exceptions.KeyError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /nearby/Query String MarketId 
+
+Response {u'requestStatus': u'SUCCESS', u'halo': {u'Object': {u'status': u'SUCCESS', u'bio': u'', u'name': u'', u'gender': u'Unknown', u'imageName': u'webUser', u'email': u''}}}
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Nearby/views.py", line 63, in get_campaigns
+    jsonHalo = getJsonForCampaignPage(response, haloid, server, image_server, ip, customerName, customerMobile, customerId, '', category, floor, '', '', current_domain, request.user_agent.is_mobile)
+  File "/home/ec2-user/frontend/WebClient/Dynamic/utils.py", line 36, in getJsonForCampaignPage
+    marketName = response['marketName']
+KeyError: 'marketName'
+2018-01-04 20:57:34
+Domain www.halobee.com
+marketName (<type 'exceptions.KeyError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /nearby/Query String MarketId 
+
+Response {u'requestStatus': u'SUCCESS', u'halo': {u'Object': {u'status': u'SUCCESS', u'bio': u'', u'name': u'', u'gender': u'Unknown', u'imageName': u'webUser', u'email': u''}}}
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Nearby/views.py", line 63, in get_campaigns
+    jsonHalo = getJsonForCampaignPage(response, haloid, server, image_server, ip, customerName, customerMobile, customerId, '', category, floor, '', '', current_domain, request.user_agent.is_mobile)
+  File "/home/ec2-user/frontend/WebClient/Dynamic/utils.py", line 36, in getJsonForCampaignPage
+    marketName = response['marketName']
+KeyError: 'marketName'
+2018-01-04 20:57:34
+Domain www.halobee.com
+marketName (<type 'exceptions.KeyError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /nearby/Query String MarketId 
+
+Response {u'requestStatus': u'SUCCESS', u'halo': {u'Object': {u'status': u'SUCCESS', u'bio': u'', u'name': u'', u'gender': u'Unknown', u'imageName': u'webUser', u'email': u''}}}
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Nearby/views.py", line 63, in get_campaigns
+    jsonHalo = getJsonForCampaignPage(response, haloid, server, image_server, ip, customerName, customerMobile, customerId, '', category, floor, '', '', current_domain, request.user_agent.is_mobile)
+  File "/home/ec2-user/frontend/WebClient/Dynamic/utils.py", line 36, in getJsonForCampaignPage
+    marketName = response['marketName']
+KeyError: 'marketName'
+2018-01-04 20:57:34
+Domain www.halobee.com
+marketName (<type 'exceptions.KeyError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /nearby/Query String MarketId 
+
+Response {u'requestStatus': u'SUCCESS', u'halo': {u'Object': {u'status': u'SUCCESS', u'bio': u'', u'name': u'', u'gender': u'Unknown', u'imageName': u'webUser', u'email': u''}}}
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Nearby/views.py", line 63, in get_campaigns
+    jsonHalo = getJsonForCampaignPage(response, haloid, server, image_server, ip, customerName, customerMobile, customerId, '', category, floor, '', '', current_domain, request.user_agent.is_mobile)
+  File "/home/ec2-user/frontend/WebClient/Dynamic/utils.py", line 36, in getJsonForCampaignPage
+    marketName = response['marketName']
+KeyError: 'marketName'
+2018-01-04 20:57:34
+Domain www.halobee.com
+marketName (<type 'exceptions.KeyError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /nearby/Query String MarketId 
+
+Response {u'requestStatus': u'SUCCESS', u'halo': {u'Object': {u'status': u'SUCCESS', u'bio': u'', u'name': u'', u'gender': u'Unknown', u'imageName': u'webUser', u'email': u''}}}
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Nearby/views.py", line 63, in get_campaigns
+    jsonHalo = getJsonForCampaignPage(response, haloid, server, image_server, ip, customerName, customerMobile, customerId, '', category, floor, '', '', current_domain, request.user_agent.is_mobile)
+  File "/home/ec2-user/frontend/WebClient/Dynamic/utils.py", line 36, in getJsonForCampaignPage
+    marketName = response['marketName']
+KeyError: 'marketName'
+2018-01-04 20:57:34
+Domain www.halobee.com
+marketName (<type 'exceptions.KeyError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /nearby/Query String MarketId 
+
+Response {u'requestStatus': u'SUCCESS', u'halo': {u'Object': {u'status': u'SUCCESS', u'bio': u'', u'name': u'', u'gender': u'Unknown', u'imageName': u'webUser', u'email': u''}}}
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Nearby/views.py", line 63, in get_campaigns
+    jsonHalo = getJsonForCampaignPage(response, haloid, server, image_server, ip, customerName, customerMobile, customerId, '', category, floor, '', '', current_domain, request.user_agent.is_mobile)
+  File "/home/ec2-user/frontend/WebClient/Dynamic/utils.py", line 36, in getJsonForCampaignPage
+    marketName = response['marketName']
+KeyError: 'marketName'
+2018-01-04 20:57:34
+Domain www.halobee.com
+marketName (<type 'exceptions.KeyError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /nearby/Query String MarketId 
+
+Response {u'requestStatus': u'SUCCESS', u'halo': {u'Object': {u'status': u'SUCCESS', u'bio': u'', u'name': u'', u'gender': u'Unknown', u'imageName': u'webUser', u'email': u''}}}
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/frontend/WebClient/Nearby/views.py", line 63, in get_campaigns
+    jsonHalo = getJsonForCampaignPage(response, haloid, server, image_server, ip, customerName, customerMobile, customerId, '', category, floor, '', '', current_domain, request.user_agent.is_mobile)
+  File "/home/ec2-user/frontend/WebClient/Dynamic/utils.py", line 36, in getJsonForCampaignPage
+    marketName = response['marketName']
+KeyError: 'marketName'
+2018-01-04 20:57:34
+Domain www.halobee.com
+marketName (<type 'exceptions.KeyError'>)
+Cookie Customer Name 
+Cookie Customer Mobile 
+Cookie Customer Id 
+Request URL /nearby/Query String MarketId 
+
+Response {u'requestStatus': u'SUCCESS', u'halo': {u'Object': {u'status': u'SUCCESS', u'bio': u'', u'name': u'', u'gender': u'Unknown', u'imageName': u'webUser', u'email': u''}}}
+
+
+
+
